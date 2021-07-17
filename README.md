@@ -1,10 +1,33 @@
-# Getting Started with Create React App
+# Twitter Clone App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+• Complete mobile and Website reponsive Twitter clone. In this I used MaterialUI,React Hooks, External twitter packages , firebase is used as a database to fetch data e.t.c.  
+• This app is completely build using React.
+• You can even post your tweets using this app (All post will directly add into the database of firebase )
+• None of the data is hard-coded in this app, any new changes in database will appear directly into the app.
+• External packages are also used to get the latest posts into the widgets section from the selected user's accounts. 
+• Smooth scroll effect is also implemented to give more closer look with original twitter app  and so on...
 
-In the project directory, you can run:
+
+## Author
+
+Devesh Verma (devesh0477)
+
+## Demo 
+
+The app is deployed using Firebase at: https://twitter-clone-459bd.web.app/
+
+## Screenshots 
+
+![Screen Shot 2021-07-16 at 11 48 05 PM](https://user-images.githubusercontent.com/55842034/126027092-9706fc7c-9d3f-47cb-9557-84e324ebd146.png) 
+![Screen Shot 2021-07-17 at 1 36 43 AM](https://user-images.githubusercontent.com/55842034/126027044-e36ac986-f0a0-481a-bf13-30c3296ea93f.png)
+![Screen Shot 2021-07-17 at 1 39 38 AM](https://user-images.githubusercontent.com/55842034/126027142-1e954735-087a-4f19-9460-011aa2d8ad47.png)
+
+![Screen Shot 2021-07-17 at 1 40 20 AM](https://user-images.githubusercontent.com/55842034/126027129-231f8431-a018-4f65-a2ba-fdc920bef16e.png)
+
+
+***************************************************************************************************
+
 
 ### `npm start`
 
